@@ -13,25 +13,23 @@ chapter: false
 {{% /notice %}}
 
 ### Student Information:
-&emsp; **Full Name:** Nguyen Van A
+&emsp; **Full Name:** Phạm Văn Đức
 
-&emsp; **Phone Number:** 0989888999 
+&emsp; **Phone Number:** 0385299061
 
-&emsp; **Email:** Anguyenvan@gmail.com
+&emsp; **Email:** ducpvse181771@fpt.edu.vn
 
-&emsp; **University:** Ho Chi Minh City University of Technology and Education
+&emsp; **University:** FPT university Ho Chi Minh
 
 &emsp; **Major:** Information Technology
-
-&emsp; **Class:** AWS082025
 
 &emsp; **Internship Company:** Amazon Web Services Vietnam Co., Ltd.
 
 &emsp; **Internship Position:** FCJ Cloud Intern
 
-&emsp; **Internship Duration:** From 12/08/2025 to 12/11/2025
+&emsp; **Internship Duration:** From 8/09/2025 to 12/12/2025
 
-![Your profile picture](/images/avatar.png)
+![Your profile picture](/images/av1.png)
 
 ### Report Content
 
