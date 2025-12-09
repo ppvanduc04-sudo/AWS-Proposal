@@ -1,39 +1,40 @@
 ---
-title: "Self-Assessment"
+title: "Self-Evaluation (Version 2)"
 date: "2025-10-01"
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-{{% notice warning %}}
-⚠️ **Note:** The information below is for reference purposes only. Please **do not copy it verbatim** into your report, including this warning.
-{{% /notice %}}
+During my internship at **[Company/Organization Name]**, I participated in the development and deployment of **[project description: e.g., an AI-powered fitness platform, a data management system, an e-commerce application, etc.]**.  
+This experience helped me strengthen my technical skills, task management abilities, teamwork communication, and problem-solving mindset.
 
-During my internship at **[Company/Organization Name]** from **[start date]** to **[end date]**, I had the opportunity to learn, practice, and apply the knowledge acquired in school to a real-world working environment.  
-I participated in **[briefly describe the main project or task]**, through which I improved my skills in **[list skills: programming, analysis, reporting, communication, etc.]**.  
+I consistently worked to complete assigned tasks on time, proactively learned new concepts, and welcomed feedback from my mentor to improve myself.  
+Below is my personal self-evaluation based on different criteria:
 
-In terms of work ethic, I always strived to complete tasks well, complied with workplace regulations, and actively engaged with colleagues to improve work efficiency.
+---
 
-To objectively reflect on my internship period, I would like to evaluate myself based on the following criteria:
+## **Personal Self-Evaluation Table**
 
-| No. | Criteria                            | Description                                                                                      | Good | Fair | Average |
-| --- | ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---- | ---- | ------- |
-| 1   | **Professional knowledge & skills** | Understanding of the field, applying knowledge in practice, proficiency with tools, work quality | ✅    | ☐    | ☐       |
-| 2   | **Ability to learn**                | Ability to absorb new knowledge and learn quickly                                                | ☐    | ✅    | ☐       |
-| 3   | **Proactiveness**                   | Taking initiative, seeking out tasks without waiting for instructions                            | ✅    | ☐    | ☐       |
-| 4   | **Sense of responsibility**         | Completing tasks on time and ensuring quality                                                    | ✅    | ☐    | ☐       |
-| 5   | **Discipline**                      | Adhering to schedules, rules, and work processes                                                 | ☐    | ☐    | ✅       |
-| 6   | **Progressive mindset**             | Willingness to receive feedback and improve oneself                                              | ☐    | ✅    | ☐       |
-| 7   | **Communication**                   | Presenting ideas and reporting work clearly                                                      | ☐    | ✅    | ☐       |
-| 8   | **Teamwork**                        | Working effectively with colleagues and participating in teams                                   | ✅    | ☐    | ☐       |
-| 9   | **Professional conduct**            | Respecting colleagues, partners, and the work environment                                        | ✅    | ☐    | ☐       |
-| 10  | **Problem-solving skills**          | Identifying problems, proposing solutions, and showing creativity                                | ☐    | ✅    | ☐       |
-| 11  | **Contribution to project/team**    | Work effectiveness, innovative ideas, recognition from the team                                  | ✅    | ☐    | ☐       |
-| 12  | **Overall**                         | General evaluation of the entire internship period                                               | ✅    | ☐    | ☐       |
+| No. | Criteria                               | Description                                                                                   | Good | Fair | Average |
+| --- | -------------------------------------- | --------------------------------------------------------------------------------------------- | ---- | ---- | -------- |
+| 1   | **Technical Knowledge & Skills**       | Understands the technologies used and the overall software development process                | ☐    | ✅    | ☐        |
+| 2   | **Ability to Learn**                   | Quickly absorbs instructions and adapts well to new technologies                              | ✅    | ☐    | ☐        |
+| 3   | **Independent Working Skills**         | Able to analyze requirements and complete tasks without constant supervision                   | ☐    | ✅    | ☐        |
+| 4   | **Sense of Responsibility**            | Ensures accuracy, quality, and deadlines in assigned tasks                                    | ☐    | ☐    | ✅        |
+| 5   | **Discipline & Compliance**            | Follows working hours, team rules, and organizational procedures                              | ☐    | ☐    | ✅        |
+| 6   | **Willingness to Improve**             | Actively seeks feedback and strives to improve skills                                         | ✅    | ☐    | ☐        |
+| 7   | **Communication Skills**               | Able to present ideas clearly and report progress effectively                                 | ☐    | ✅    | ☐        |
+| 8   | **Teamwork Skills**                    | Collaborates well with teammates and communicates effectively during development               | ☐    | ✅    | ☐        |
+| 9   | **Professional Attitude**              | Maintains respect for colleagues and positive working behavior                                | ☐    | ☐    | ✅        |
+| 10  | **Problem-Solving Skills**             | Identifies the root cause of issues and proposes appropriate solutions                        | ☐    | ✅    | ☐        |
+| 11  | **Contribution to Team/Project**       | Provides useful ideas and completes tasks following project standards                         | ☐    | ✅    | ☐        |
+| 12  | **Overall Evaluation**                 | General assessment of performance during the internship                                        | ☐    | ☐    | ☐        |
 
-### Needs Improvement
+---
 
-* Strengthen discipline and strictly comply with the rules and regulations of the company or any organization  
-* Improve problem-solving thinking  
-* Enhance communication skills in both daily interactions and professional contexts, including handling situations effectively
+## **Areas for Improvement**
+
+* Improve working discipline to strictly follow organizational guidelines.  
+* Enhance communication and presentation skills within the team.  
+* Strengthen analytical thinking and become more proactive in proposing effective solutions.
