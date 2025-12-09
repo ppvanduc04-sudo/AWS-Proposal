@@ -1,22 +1,42 @@
-name: Deploy to GitHub Pages
+name: Deploy Hugo site to GitHub Pages
 
+# Khi push vào nhánh main, workflow sẽ chạy
 on:
   push:
     branches:
-      - main  # Hoặc nhánh bạn muốn trigger
+      - main
+
+# Quyền để deploy nhánh gh-pages
+permissions:
+  contents: write
 
 jobs:
-  build-deploy:           # job id
-    runs-on: ubuntu-latest  # runs-on phải nằm dưới job id
+  build-deploy:
+    runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
+      # 1️⃣ Checkout source code
+      - name: Checkout source code
+        uses: actions/checkout@v4
 
-      - name: Build
-        run: echo "Build your project here"
+      # 2️⃣ Setup Hugo (extended version nếu dùng SCSS/SASS)
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.134.3"
+          extended: true
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+      # 3️⃣ Build Hugo site
+      - name: Build website
+        run: hugo --minify
+
+      # 4️⃣ Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist  # Thư mục build
+          publish_dir: ./public           # Thư mục Hugo xuất ra
+          publish_branch: gh-pages        # Nhánh Pages sẽ deploy
+          force_orphan: true              # Xóa lịch sử cũ trên gh-pages
+          # Nếu muốn dùng custom domain, bỏ comment dòng dưới
+          # cname: yourcustomdomain.com
