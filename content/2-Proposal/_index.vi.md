@@ -2,7 +2,7 @@
 title: "Phụ lục & Tài liệu đính kèm"
 weight: 1
 chapter: false
-pre: " <b> 2.1. </b> "
+pre: " <b> 2. </b> "
 ---
 
 ### Tài liệu đính kèm

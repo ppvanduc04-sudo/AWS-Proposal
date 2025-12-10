@@ -2,7 +2,7 @@
 title: "Appendix & Attachments"
 weight: 1
 chapter: false
-pre: " <b> 2.1. </b> "
+pre: " <b> 2. </b> "
 ---
 
 ### Attached Documents

@@ -1,5 +1,5 @@
 ---
-title: "Tự đánh giá (Phiên bản 2)"
+title: "Tự đánh giá "
 date: "2025-10-01"
 weight: 6
 chapter: false
