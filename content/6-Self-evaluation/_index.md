@@ -1,12 +1,12 @@
 ---
-title: "Self-Evaluation (Version 2)"
+title: "Self-Evaluation"
 date: "2025-10-01"
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-During my internship at **[Company/Organization Name]**, I participated in the development and deployment of **[project description: e.g., an AI-powered fitness platform, a data management system, an e-commerce application, etc.]**.  
+During my internship at AWS, I participated in the development and deployment of project AI Fit Challenge.  
 This experience helped me strengthen my technical skills, task management abilities, teamwork communication, and problem-solving mindset.
 
 I consistently worked to complete assigned tasks on time, proactively learned new concepts, and welcomed feedback from my mentor to improve myself.  
@@ -29,7 +29,7 @@ Below is my personal self-evaluation based on different criteria:
 | 9   | **Professional Attitude**              | Maintains respect for colleagues and positive working behavior                                | ☐    | ☐    | ✅        |
 | 10  | **Problem-Solving Skills**             | Identifies the root cause of issues and proposes appropriate solutions                        | ☐    | ✅    | ☐        |
 | 11  | **Contribution to Team/Project**       | Provides useful ideas and completes tasks following project standards                         | ☐    | ✅    | ☐        |
-| 12  | **Overall Evaluation**                 | General assessment of performance during the internship                                        | ☐    | ☐    | ☐        |
+| 12  | **Overall Evaluation**                 | General assessment of performance during the internship                                        | ☐    | ✅   | ☐        |
 
 ---
 

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 7. </b> "
 ---
 
-> Here you can freely share your personal feedback about your experience during the First Cloud Journey program, helping the FCJ team improve based on the following aspects:
+
 
 ### General Evaluation
 
