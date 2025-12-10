@@ -1,14 +1,15 @@
 ---
-title: "Tự đánh giá (Phiên bản 2)"
+title: "Tự đánh giá"
 date: "2025-10-01"
 weight: 6
 chapter: false
 pre: " <b> 6. </b> "
 ---
 
-Trong suốt quá trình thực tập tại AWS, tôi được biết thêm nhiều về cloud các vận hành của một dự án trên cloud, bên canhj đó hình thành tư duy tối ưu kiến trúc .Quá trình làm việc giúp tôi rèn luyện kỹ năng kỹ thuật, khả năng quản lý nhiệm vụ, giao tiếp trong nhóm và tư duy phân tích vấn đề.
+Trong suốt quá trình thực tập tại AWS, tôi được biết thêm nhiều về cloud các vận hành của một dự án trên cloud, bên cạnh đó hình thành tư duy tối ưu kiến trúc .Quá trình làm việc giúp tôi rèn luyện kỹ năng kỹ thuật, khả năng quản lý nhiệm vụ, giao tiếp trong nhóm và tư duy phân tích vấn đề.
 
 Tôi luôn cố gắng hoàn thành công việc đúng tiến độ, chủ động học hỏi và tiếp nhận phản hồi từ mentor để cải thiện bản thân.  
+Mặc dù ở thời gian đầu và ở giữa kỳ kết qủa kiểm tra không tốt nhưng tôi đã có sự cố gắng hơn, hiểu hơn về kiến trúc.
 Dưới đây là phần tự đánh giá cá nhân theo các tiêu chí:
 
 ---
