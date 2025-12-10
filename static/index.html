@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=./en/">
+    <link rel="canonical" href="./en/" />
+    <script>
+        // Detect language preference
+        var lang = navigator.language || navigator.userLanguage;
+        var redirectPath = './en/';
+        if (lang.startsWith('vi')) {
+            redirectPath = './vi/';
+        }
+        window.location.href = redirectPath;
+    </script>
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>If you are not redirected automatically, follow this <a href="./en/">link to English</a> or <a href="./vi/">link to Vietnamese</a>.</p>
+</body>
+</html>
+
