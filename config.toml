@@ -2,10 +2,6 @@ baseURL = "https://thienluhoan.github.io/workshop-template/"
 relativeURLs = true
 canonifyURLs = true
 
-# Multilingual configuration
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true
-
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
@@ -31,8 +27,6 @@ home = [ "HTML", "RSS", "JSON"]
 title = "Internship Report"
 weight = 1
 languageName = "English"
-languageCode = "en-us"
-contentDir = "content"
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
@@ -44,8 +38,6 @@ weight = 20
 title = "Báo cáo thực tập"
 weight = 2
 languageName = "Tiếng Việt"
-languageCode = "vi-vn"
-contentDir = "content"
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
